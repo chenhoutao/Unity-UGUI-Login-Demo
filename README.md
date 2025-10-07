@@ -31,7 +31,8 @@ Designed with scalability and user experience in mind, this project highlights c
 -  Unity ver. 2022.3 or higher
 
 ### Running the project
-- After cloning or downloading the repository, open the root project folder in unity and press the Play button.
+- After cloning or downloading the repository, open the root project folder in **Unity**,  
+locate the **Scene** folder and open `LoginScene`, then press the **Play** button.  
 
 ### License
 - This project is licensed under the MIT License
@@ -56,7 +57,8 @@ Designed with scalability and user experience in mind, this project highlights c
 - 建议使用 **Unity 2022.3 及以上版本** 打开
 
 ### 运行项目
-- 克隆或下载本仓库后，在 Unity 中打开项目根目录，然后点击 **Play** 按钮即可运行
+- 克隆或下载项目后，在 **Unity** 中打开项目根目录，  
+找到 **Scene** 文件夹并打开 `LoginScene` 场景，然后点击 **Play** 按钮运行。
 
 ### 许可证
 - 本项目采用 MIT 许可协议
